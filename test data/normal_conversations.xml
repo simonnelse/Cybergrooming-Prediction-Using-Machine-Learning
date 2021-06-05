@@ -1,0 +1,254 @@
+<conversations>
+  <conversation id="affc2df0951b733d14ba92d19d9b7695">
+    <message line="1">
+      <author>0a39f78bcb297ab0ebe8a29c28bfed89</author>
+      <time>15:24</time>
+      <text>bugmail: [Bug 6978] New: Mark eof-terminated script elements as malformed &amp;lt;http://lists.w3.org/Archives/Public/public-html-bugzilla/2009May/0049.html&amp;gt;</text>
+    </message>
+    <message line="2">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:32</time>
+      <text>Henri, can I ask you a Firefox build question (Windows)?</text>
+    </message>
+    <message line="3">
+      <author>b8810fee2f4a71f849f3f7409546d1d9</author>
+      <time>15:34</time>
+      <text>60659cfda992013e610f285c46692d28: sure, but I probably don't know the answer</text>
+    </message>
+    <message line="4">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:35</time>
+      <text>It appears the build runs through, it creates a firefox.exe in dist/bin</text>
+    </message>
+    <message line="5">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:35</time>
+      <text>when I start it, I get my standard install of FF (3.0.10) instead...</text>
+    </message>
+    <message line="6">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:35</time>
+      <text>Same if I make a package, unzip it, and start from there...</text>
+    </message>
+    <message line="7">
+      <author>b8810fee2f4a71f849f3f7409546d1d9</author>
+      <time>15:35</time>
+      <text>60659cfda992013e610f285c46692d28: do you already have the usual Firefox open?</text>
+    </message>
+    <message line="8">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:35</time>
+      <text>Likely</text>
+    </message>
+    <message line="9">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:36</time>
+      <text>So do I need to close all instances?</text>
+    </message>
+    <message line="10">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:36</time>
+      <text>...other...</text>
+    </message>
+    <message line="11">
+      <author>b8810fee2f4a71f849f3f7409546d1d9</author>
+      <time>15:36</time>
+      <text>60659cfda992013e610f285c46692d28: at least with the Linux version, you need to</text>
+    </message>
+    <message line="12">
+      <author>b8810fee2f4a71f849f3f7409546d1d9</author>
+      <time>15:36</time>
+      <text>(unless you run a different profile, which may be advisable anyway)</text>
+    </message>
+    <message line="13">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:36</time>
+      <text>Good point.</text>
+    </message>
+    <message line="14">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:37</time>
+      <text>Will be gone for a moment due to Chatzilla.</text>
+    </message>
+    <message line="15">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:38</time>
+      <text>Henri, that was the problem.</text>
+    </message>
+    <message line="16">
+      <author>b8810fee2f4a71f849f3f7409546d1d9</author>
+      <time>15:40</time>
+      <text>ok. good that I can guess some windows things from linux behavior</text>
+    </message>
+    <message line="17">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:43</time>
+      <text>ah yeah, Firefox is annoying with that</text>
+    </message>
+    <message line="18">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:44</time>
+      <text>60659cfda992013e610f285c46692d28, I was merely citing it because your message made it seem as if you thought there was WG agreement</text>
+    </message>
+    <message line="19">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:45</time>
+      <text>And I thought there was some treshold criteria for the tracker, but maybe things changed</text>
+    </message>
+    <message line="20">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:48</time>
+      <text>We don't need WG agreement to add something to the tracker.</text>
+    </message>
+    <message line="21">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:49</time>
+      <text>That's not what I'm saying</text>
+    </message>
+    <message line="22">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:49</time>
+      <text>In particular, if the author has an outstanding action (ACTION-123) to reply, due 8 days ago.</text>
+    </message>
+    <message line="23">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:49</time>
+      <text>Ian?</text>
+    </message>
+    <message line="24">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:50</time>
+      <text>Yes.</text>
+    </message>
+    <message line="25">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:50</time>
+      <text>Since when can non-telcon participants be assigned action items?</text>
+    </message>
+    <message line="26">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:50</time>
+      <text>What does this have to do with the telco?</text>
+    </message>
+    <message line="27">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:50</time>
+      <text>http://www.w3.org/html/wg/tracker/actions/123</text>
+    </message>
+    <message line="28">
+      <author>0a39f78bcb297ab0ebe8a29c28bfed89</author>
+      <time>15:50</time>
+      <text>Title: ACTION-123 - HTML Weekly Tracker (at www.w3.org)</text>
+    </message>
+    <message line="29">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:50</time>
+      <text>Let me state it differently, did he agree to taking that action item?</text>
+    </message>
+    <message line="30">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:50</time>
+      <text>It's against W3C protocol to assign action items to people who did not agree to taking them.</text>
+    </message>
+    <message line="31">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:51</time>
+      <text>I don't know, nor do I think he needs to.</text>
+    </message>
+    <message line="32">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:51</time>
+      <text>Based on experience with the W3C I'd say he has to agree</text>
+    </message>
+    <message line="33">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:52</time>
+      <text>But it is ok to add non-chartered stuff to a spec, and then not to reply when asked for th reasons?</text>
+    </message>
+    <message line="34">
+      <author>b8810fee2f4a71f849f3f7409546d1d9</author>
+      <time>15:54</time>
+      <text>my 'agreement' to the tracker item assigned to me was that I thought it was against protocol to refuse when Zakim picked me as &amp;quot;victim&amp;quot;</text>
+    </message>
+    <message line="35">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:55</time>
+      <text>Ignoring process for a moment (it wasn't me who added the action...)... But if the WG asks the editor why he did something, I think it deserves an answer.</text>
+    </message>
+    <message line="36">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:56</time>
+      <text>You raised the issue two weeks ago. Things take a bit of time</text>
+    </message>
+    <message line="37">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:57</time>
+      <text>If Ian has the time to add these four chapters (vcard, icalendar, bibtext, atom), he probably also has time to explain why.</text>
+    </message>
+    <message line="38">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:57</time>
+      <text>If you catch him on IRC you can probably ask if he can prioritize it somewhat if a timely response is important to you</text>
+    </message>
+    <message line="39">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:58</time>
+      <text>I think the fact that there's an overdue action on him should be sufficient information that the WG wants feedback.</text>
+    </message>
+    <message line="40">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:58</time>
+      <text>Seems to me that it followed from the microdata use cases / requirements discussion</text>
+    </message>
+    <message line="41">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>15:58</time>
+      <text>60659cfda992013e610f285c46692d28, I doubt he even knows an action item is assigned to him</text>
+    </message>
+    <message line="42">
+      <author>60659cfda992013e610f285c46692d28</author>
+      <time>15:59</time>
+      <text>so he's both not attending telcos *and* not reading the minutes?</text>
+    </message>
+    <message line="43">
+      <author>b25b6b77a0087ff8385941e5545d32ea</author>
+      <time>15:59</time>
+      <text>60659cfda992013e610f285c46692d28: FWIW I think the answer to the question is &amp;quot;because it allows the use cases of rich drag and drop / clipboard items&amp;quot; to be fulfilled</text>
+    </message>
+    <message line="44">
+      <author>b25b6b77a0087ff8385941e5545d32ea</author>
+      <time>16:00</time>
+      <text>Although obviously that is not an offical answer</text>
+    </message>
+    <message line="45">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>16:00</time>
+      <text>60659cfda992013e610f285c46692d28, that seems like quite a leap from not knowing he has an action item</text>
+    </message>
+    <message line="46">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>16:01</time>
+      <text>(In my experience Ian always does action items on time.)</text>
+    </message>
+    <message line="47">
+      <author>b25b6b77a0087ff8385941e5545d32ea</author>
+      <time>16:02</time>
+      <text>60659cfda992013e610f285c46692d28: And whilst I think it makes sense to consider taking the specific mocrodata bits out of HTML 5, keeping the D&amp;amp;D stuff would make the specs codependant on each other. So I'm not sure you'd gain much</text>
+    </message>
+    <message line="48">
+      <author>b25b6b77a0087ff8385941e5545d32ea</author>
+      <time>16:02</time>
+      <text>*microdata</text>
+    </message>
+    <message line="49">
+      <author>b25b6b77a0087ff8385941e5545d32ea</author>
+      <time>16:02</time>
+      <text>(amongst other errors)</text>
+    </message>
+    <message line="50">
+      <author>edb259c0e0038f38bb200bc20c8cbf7e</author>
+      <time>16:06</time>
+      <text>gives up on finding rules on action items</text>
+    </message>
+  </conversation>
+</conversations>
